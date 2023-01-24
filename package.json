@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@headlessui/react": "^1.7.7",
+    "axios": "^1.2.3",
+    "leaflet": "^1.9.3",
+    "react-leaflet": "^4.2.0",
+    "react-rating-stars-component": "^2.2.0",
+    "react-router-dom": "^6.7.0",
+    "simple-image-viewer": "^0.2.13",
+    "swiper": "^8.4.6"
+  }
+}

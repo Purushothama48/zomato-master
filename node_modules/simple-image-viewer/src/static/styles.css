@@ -1,0 +1,11 @@
+@media(orientation: portrait) {
+    .siv-img-container {
+        max-width: 70%;
+    }
+}
+
+@media(orientation: landscape) {
+    .siv-img-container {
+        max-width: 40%;
+    }
+}
